@@ -6,5 +6,5 @@ baaden commit changes
 3mal new rep
 git remote add origin git@github.com:KarimHabbal1/demo2.git(hayda l ssh) remote:somewhere else not on this computer
 git remote-v biwarjik kel l remote repositary connected 
-git push origin master
+git push 
 baaden push 
