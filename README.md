@@ -7,4 +7,5 @@ baaden commit changes <br>
 git remote add origin git@github.com:KarimHabbal1/demo2.git(hayda l ssh) remote:somewhere else not on this computer <br>
 git remote-v biwarjik kel l remote repositary connected <br>
 git push <br>
-baaden push origin main
+baaden push origin main <br>
+la taamil push badak taamil push w thadid hone bihotolak esma bas yaatok error copy paste
