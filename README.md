@@ -4,7 +4,6 @@ la taamlo repo btektob git init <br>
 btaamelo add <br>
 baaden commit changes <br>
 3mal new rep <br>
-git remote add origin git@github.com:KarimHabbal1/demo2.git(hayda l ssh) remote:somewhere else not on this computer <br>
-git remote-v biwarjik kel l remote repositary connected <br>
-git push <br>
-baaden push origin main
+baaden push origin main <br>
+
+1.open index.html in ur browser
