@@ -8,4 +8,5 @@ git remote add origin git@github.com:KarimHabbal1/demo2.git(hayda l ssh) remote:
 git remote-v biwarjik kel l remote repositary connected <br>
 git push <br>
 baaden push origin main <br>
-la taamil push badak taamil push w thadid hone bihotolak esma bas yaatok error copy paste
+la taamil push badak taamil push w thadid hone bihotolak esma bas yaatok error copy paste <br>
+aadatan bteshteghil aa branch w btaamelo merge lal main w btaamil delete la haydak l branch men khilel git branch -d esmo
