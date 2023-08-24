@@ -1,3 +1,3 @@
 la tshuf kam branch aandak git branch main hiye l asesiye 
-git checkout to switch bw branches
+git checkout name to switch bw branches
 git checkout -b name_of_branch creates new branch w switches to it
