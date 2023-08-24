@@ -1,5 +1,5 @@
 la tghayir direcotry la wara cd ../esem l folder <br>
-ls -la la tshuf l files joweto bethsuf mafi .git mano repositary ba3ed <br>
+ls -ls la tshuf l files joweto bethsuf mafi .git mano repositary ba3ed <br>
 la taamlo repo btektob git init <br>
 btaamelo add <br>
 baaden commit changes <br>
@@ -7,4 +7,4 @@ baaden commit changes <br>
 git remote add origin git@github.com:KarimHabbal1/demo2.git(hayda l ssh) remote:somewhere else not on this computer <br>
 git remote-v biwarjik kel l remote repositary connected <br>
 git push <br>
-baaden push 
+baaden push origin main
