@@ -1,4 +1,4 @@
-la tghayir direcotry la wara cd ../esem l folder
+la tghayir direcotry la wara cd ../esem l folder /n
 ls -la la tshuf l files joweto bethsuf mafi .git mano repositary ba3ed
 la taamlo repo btektob git init
 btaamelo add 
