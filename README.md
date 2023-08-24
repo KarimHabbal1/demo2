@@ -6,4 +6,5 @@ baaden commit changes <br>
 3mal new rep <br>
 baaden push origin main <br>
 
-1.open index.html in ur browser
+1.open index.html in ur browser <br> 
+hay ana katabta aa branch l main aza be2lob aal branch l tene ma ble2e shi men l changes yali sayavata hone ka2an hone seperate koliyan
